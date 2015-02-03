@@ -26,15 +26,15 @@ gulp assemble
 
 I am using node [http-server[httpserver]
 
-'''bash
+```bash
 http-server .
-'''
+```
 
 ## Author decks
 
 Add a new file to the `decks` dir:
 
-```html.handlebars
+```html
 ---
 title: ...
 description: ...
