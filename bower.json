@@ -1,0 +1,19 @@
+{
+  "name": "revealjs-assembleio",
+  "version": "1.0.0",
+  "authors": [
+    "Raphael Parree <rparree@edc4it.com>"
+  ],
+  "description": "Combines reveal.js with assemble.io",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.0.0"
+  }
+}
